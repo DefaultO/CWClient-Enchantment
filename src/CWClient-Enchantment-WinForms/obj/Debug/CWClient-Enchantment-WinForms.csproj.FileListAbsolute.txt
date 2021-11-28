@@ -1,0 +1,10 @@
+C:\Users\Eduard Breiter\source\repos\CWClient-Enchantment\CWClient-Enchantment-WinForms\bin\Debug\CWClient-Enchantment-WinForms.exe.config
+C:\Users\Eduard Breiter\source\repos\CWClient-Enchantment\CWClient-Enchantment-WinForms\bin\Debug\CWClient-Enchantment-WinForms.exe
+C:\Users\Eduard Breiter\source\repos\CWClient-Enchantment\CWClient-Enchantment-WinForms\bin\Debug\CWClient-Enchantment-WinForms.pdb
+C:\Users\Eduard Breiter\source\repos\CWClient-Enchantment\CWClient-Enchantment-WinForms\obj\Debug\CWClient-Enchantment-WinForms.csprojAssemblyReference.cache
+C:\Users\Eduard Breiter\source\repos\CWClient-Enchantment\CWClient-Enchantment-WinForms\obj\Debug\CWClient_Enchantment_WinForms.Form1.resources
+C:\Users\Eduard Breiter\source\repos\CWClient-Enchantment\CWClient-Enchantment-WinForms\obj\Debug\CWClient_Enchantment_WinForms.Properties.Resources.resources
+C:\Users\Eduard Breiter\source\repos\CWClient-Enchantment\CWClient-Enchantment-WinForms\obj\Debug\CWClient-Enchantment-WinForms.csproj.GenerateResource.cache
+C:\Users\Eduard Breiter\source\repos\CWClient-Enchantment\CWClient-Enchantment-WinForms\obj\Debug\CWClient-Enchantment-WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Eduard Breiter\source\repos\CWClient-Enchantment\CWClient-Enchantment-WinForms\obj\Debug\CWClient-Enchantment-WinForms.exe
+C:\Users\Eduard Breiter\source\repos\CWClient-Enchantment\CWClient-Enchantment-WinForms\obj\Debug\CWClient-Enchantment-WinForms.pdb
